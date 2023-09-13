@@ -1,16 +1,26 @@
-### Hi there 👋
+<!-- MANOJ KUMAR -->
+# Hi there, I'm [Manoj Kumar] 👾
 
-<!--
-**M4N0J-KUM4R/M4N0J-KUM4R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps Engineer with a passion for all things AWS, Docker, and Jenkins!
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- AWS ☁️
+- Docker Enthusiast 🐳
+- Jenkins Automation Guru 🤖
+- Shell Scripting Maestro 💻
+- Pixel Art Fanatic 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Fun Facts
+- I collect retro video games 🕹️
+- My favorite game is [Pokémon]
+- I'm a coffee addict ☕
+
+## 📫 Let's Connect
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
+- Website: [Your Website](https://www.yourwebsite.com)
+
+<!-- Add pixel art or retro-style images here -->
+
+<!-- ![Pixel Art](link_to_pixel_art_image.png) -->
+
+👾 Happy coding! 👾
