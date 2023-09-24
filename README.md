@@ -16,7 +16,7 @@ I'm a DevOps Engineer with a passion for all things AWS, Docker, and Jenkins!
 - I'm a coffee addict ☕
 
 ## 📫 Let's Connect
-- LinkedIn: (https://www.linkedin.com/in/manoj-kumar-62496a222)
+- LinkedIn: https://www.linkedin.com/in/manoj-kumar-62496a222
 - Website: [Your Website](https://www.yourwebsite.com)
 
 <!-- Add pixel art or retro-style images here -->
