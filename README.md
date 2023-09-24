@@ -1,12 +1,13 @@
 <!-- MANOJ KUMAR -->
 # Hi there, I'm [Manoj Kumar] 👾
 
-I'm a DevOps Engineer with a passion for all things AWS, Docker, and Jenkins!
+I'm a coconut shell DevOps Engineer with a passion for all things AWS, Docker, and Jenkins!
+Privacy is the First policy
 
 ## 🚀 Skills
 - AWS ☁️
 - Docker Enthusiast 🐳
-- Jenkins Automation Guru 🤖
+- Jenkins Automation 🤖
 - Shell Scripting Maestro 💻
 - Pixel Art Fanatic 🎮
 
